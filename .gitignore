@@ -1,0 +1,24 @@
+# Temporary files
+*.tmp
+*.log
+
+# Python-generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# MATLAB and Simulink
+*.asv
+*.m~
+slprj/
+codegen/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Private files
+passwords.txt
+.env
+credentials.json
